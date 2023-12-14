@@ -1,6 +1,6 @@
 {
   "spider": "https://tv.5ye.cc/jar/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
       "name": "live",
