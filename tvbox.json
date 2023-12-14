@@ -1199,8 +1199,6 @@
     }
   ],
   "parses": [
-    { "name": "Web聚合", "type": 3, "url": "Web" },
-    { "name": "聚合", "type": 3, "url": "Demo" },
     {
       "name": "解析1",
       "type": 0,
