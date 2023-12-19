@@ -17,7 +17,7 @@
       "key": "阿杰影视",
       "name": "阿杰影视",
       "type": 1,
-      "api": "http://dv.svideo.site:8090/api.php/provide/vod/",
+      "api": "http://v6.svideo.site:8090/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
